@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="246"
+    android:viewportHeight="173"
+    android:width="246dp"
+    android:height="173dp">
+    <group>
+        <clip-path
+            android:pathData="M12.5 5H233.5V152H12.5V5Z" />
+        <path
+            android:pathData="M12.5 5H233.5V152H12.5V5Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M12.5 5H233.5V152H12.5V5Z"
+            android:fillColor="#FAD201" />
+        <path
+            android:pathData="M12.5 5H233.5V78.5H12.5V5Z"
+            android:fillColor="#00A3E0" />
+        <path
+            android:pathData="M12.5 115.25H233.5V152H12.5V115.25Z"
+            android:fillColor="#20603D" />
+        <path
+            android:pathData="M193.834 19.7L194.796 36.1583L199.993 20.5085L196.653 36.6559L205.734 22.8817L198.319 37.6156L210.662 26.6556L199.677 38.9711L214.445 31.5731L200.639 40.6334L216.823 37.3004L201.138 42.4864L217.634 43.4462L201.138 44.4059L216.823 49.5919L200.639 46.2589L214.445 55.3192L199.677 47.9212L210.662 60.2367L198.319 49.2767L205.734 64.0106L196.653 50.2364L199.993 66.3838L194.796 50.734L193.834 67.1923L192.872 50.734L187.674 66.3838L191.015 50.2364L181.934 64.0106L189.349 49.2767L177.005 60.2367L187.99 47.9212L173.223 55.3192L187.028 46.2589L170.844 49.5919L186.529 44.4059L170.034 43.4462L186.529 42.4864L170.844 37.3004L187.028 40.6334L173.223 31.5731L187.99 38.9711L177.005 26.6556L189.349 37.6156L181.934 22.8817L191.015 36.6559L187.674 20.5085L192.872 36.1583L193.834 19.7Z"
+            android:fillColor="#E5BE01" />
+        <path
+            android:pathData="M193.834 36.9452C190.234 36.9452 187.317 39.8567 187.317 43.4461C187.317 47.0356 190.234 49.9471 193.834 49.9471C197.434 49.9471 200.35 47.0356 200.35 43.4461C200.35 39.8567 197.434 36.9452 193.834 36.9452ZM186.467 43.4461C186.467 39.3854 189.766 36.0952 193.834 36.0952C197.901 36.0952 201.2 39.3854 201.2 43.4461C201.2 47.5069 197.901 50.7971 193.834 50.7971C189.766 50.7971 186.467 47.5069 186.467 43.4461Z"
+            android:fillType="evenOdd"
+            android:fillColor="#00A3E0" />
+    </group>
+    <path
+        android:pathData="M12.5 5H233.5V152H12.5V5Z"
+        android:strokeColor="#A8B7D4"
+        android:strokeWidth="0.498424"
+        android:strokeLineJoin="round" />
+</vector>
