@@ -34,6 +34,13 @@ The library can be used in multiple ways:
          selectedCountry = country
      }
    ```
+   ### ios
+    <img src="screenshots/country_code_picker_ios.png" height="70%" alt="android">
+   <br>
+   <br>
+   <br>
+
+
    ### Android
    <img src="screenshots/country_code_picker_android.png" height="70%" alt="android">
    <br>
