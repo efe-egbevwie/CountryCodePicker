@@ -264,6 +264,16 @@ enum class Country(
         phoneCode = "+966",
         countryName = "Saudi Arabia"
     ),
+    SolomonIslands(
+        iso = "SB",
+        phoneCode = "+667",
+        countryName = "Solomon Islands"
+    ),
+    Suriname(
+        iso = "SUR",
+        phoneCode = "+547",
+        countryName = "Suriname"
+    ),
     Swaziland(iso = "SZ", phoneCode = "+268", countryName = "Swaziland"),
     Sweden(iso = "SE", phoneCode = "+46", countryName = "Sweden"),
     Switzerland(

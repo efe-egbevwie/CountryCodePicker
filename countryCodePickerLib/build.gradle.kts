@@ -66,14 +66,10 @@ kotlin {
         commonMain.dependencies {
             implementation(compose.runtime)
             implementation(compose.foundation)
-            implementation(compose.material)
             implementation(compose.material3)
             implementation(compose.ui)
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
-            implementation(libs.androidx.lifecycle.viewmodel)
-            implementation(libs.androidx.lifecycle.runtime.compose)
-            implementation(compose.components.resources)
         }
     }
 }
@@ -143,7 +139,7 @@ mavenPublishing {
     coordinates(
         groupId = "io.github.efe-egbevwie",
         artifactId = "countryCodePicker",
-        version = "0.1.0"
+        version = "0.2.0"
     )
 
     pom {
