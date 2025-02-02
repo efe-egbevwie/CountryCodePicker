@@ -16,7 +16,6 @@ enum class Country(
         iso = "AF",
         phoneCode = "+93",
         countryName = "Afghanistan",
-
         ),
     Albania(iso = "AL", phoneCode = "+355", countryName = "Albania"),
     Algeria(iso = "DZ", phoneCode = "+213", countryName = "Algeria"),
